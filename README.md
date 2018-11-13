@@ -16,7 +16,7 @@ RAM  |  Corsair Vengeance 2x8Gb 3000Mhz
 - Norton/Shanee AMD V3 Unofficial
 ### v1
 - Webdriver Nvidia flag activated + Lilu + Nvidia Kext
-- NVME PciAdress built-in patched at port 01:00.00, after that `run sudo trimforce enable`
+- NVME PciAdress built-in patched at port 01:00.00, after that `run sudo    trimforce enable`
 - Temp monitor (FakeSMC)
 - CPU busratio, busspeed and frequency
 ### v2 
