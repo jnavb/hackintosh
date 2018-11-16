@@ -24,7 +24,6 @@ RAM  |  Corsair Vengeance 2x8Gb 3000Mhz
 - NVRAM dongle BT by default: `sudo nvram bluetoothHostControllerSwitchBehavior=always`
 ### TODO
 - Update Lilu
-- Save BIOS flasks
 - Test csmVideo for ultrawide resolution compatibilty at loading screen (May arise  some issues)
 - Remove extra clover boot options
-- Find out way to boot to windows/macOS next time from OS 
+- Find out way to boot to windows/macOS next time from OS (startup disk)
