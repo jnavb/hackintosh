@@ -20,7 +20,7 @@ RAM  |  Corsair Vengeance 2x8Gb 3000Mhz
 - CPU busratio, busspeed and frequency
 - Bluetooth USB Manual Fixes (Algrey forum solution)
 ### v2 
-- RehabMan PatchRAMv1 (Fix for BT at reboot)
+- RehabMan PatchRAMv1 (Fix for BT at reboot, PatchRAMv2 will break ports)
 - NVRAM dongle BT by default: `sudo nvram bluetoothHostControllerSwitchBehavior=always`
 ### TODO
 - Update Lilu
