@@ -22,6 +22,11 @@ RAM  |  Corsair Vengeance 2x8Gb 3000Mhz
 ### v2 
 - RehabMan PatchRAMv1 (Fix for BT at reboot, PatchRAMv2 will break ports)
 - NVRAM dongle BT by default: `sudo nvram bluetoothHostControllerSwitchBehavior=always`
+
+
+**Note:** Nvidia web driver for 17D47 version often produces laggy animations and crushes user experience. Latest stable web driver is 378.10.10.10.25.106, for more info check Benjamin Dobell repo https://github.com/Benjamin-Dobell/nvidia-update/blob/master/README.md
+
+
 ### TODO
 - Update Lilu
 - Test csmVideo for ultrawide resolution compatibilty at loading screen (May arise  some issues)
